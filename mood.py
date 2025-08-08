@@ -62,7 +62,7 @@ def predict_mood(ans1, ans2, ans3):
 
 
 # Step 5
-print("🍒 Cherry's Mood Analyzer (Offline CLI Version)\n")
+print(" Mood Analyzer (Offline CLI Version)\n")
 
 print("Q1: How are you feeling right now?")
 print("Options:", q1_options)
